@@ -1,4 +1,4 @@
-# modulo-01-gostack11
+# Conteúdo Back-end com Node.js
 Modulo 01 - Bootcamp GoStack 11
 
 # Para utilizar
